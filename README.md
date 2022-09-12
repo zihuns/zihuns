@@ -1,7 +1,7 @@
 <h1><img src="https://i.pinimg.com/originals/c8/6e/94/c86e9428a58e0e828115e0a9498d2f38.gif" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm JI HUN, Frontend junior developer </p>
+<p>Welcome to My Page! </br> I'm JI HUN, Front-End Junior Developer </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
