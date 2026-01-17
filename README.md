@@ -3,9 +3,9 @@
 # 👋 Hi there, I'm JI HUN
 
 ### Frontend Developer
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
-[![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white&link=https://your-blog-url.com)](https://your-blog-url.com)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jhseo0313@naver.com)](mailto:jhseo0313@naver.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/zihuns/)
+[![Blog Badge](https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white&link=https://zihuns.github.io/)](https://zihuns.github.io/)
 
 </div>
 
